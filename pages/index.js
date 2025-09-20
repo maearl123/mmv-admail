@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import AdminLayout from "../../components/AdminLayout";
+import AdminLayout from "../components/AdminLayout";
 import { createClient } from "@supabase/supabase-js";
 
 const supabase = createClient(
