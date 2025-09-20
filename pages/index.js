@@ -1,3 +1,4 @@
+import AdminLayout from "../components/AdminLayout";
 import { useEffect, useState } from "react";
 import AdminLayout from "../../components/AdminLayout";
 import { createClient } from "@supabase/supabase-js";
